@@ -1,5 +1,8 @@
 #please excuse the messy code, this is our first hackathon and we were rushed :)
 
+#to use this bot, all you need to do is replace the bot token at the bottom of this script
+#the script will automatically create two database files and one json file
+
 import discord
 from discord.ext import commands
 import sqlite3
